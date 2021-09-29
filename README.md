@@ -9,5 +9,4 @@ React-Django-home-finance:first version of the backend.
 HomeFinanceProject_local: version using only Django and its template engine. Feb 23 - Feb 26
 backend: final, deployed version.
 frontend:
-craftsman-s-: repo used for most of the development.
 frontend-next: final, deployed version.
