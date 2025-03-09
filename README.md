@@ -1,6 +1,6 @@
 # Home Finance Project
 
-Main repository for the project. Here are all the other repositories made for it since there were multiple versions and I was still learning source control.
+Main repository for the project. Here are all the other repositories made for it since there were multiple versions.
 To keep all the change history I'm using nested repositories. Please, clone the repository to see all the files.
 
 ## Repo Info
